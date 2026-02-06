@@ -32,12 +32,10 @@ Alongside my system administration and infrastructure work, I design and build A
 
 ## Website
 
-Learn more about my work and services on my website:
-**[leomakkinje.nl](https://leomakkinje.nl)**
+Learn more about my work and services on **[my website](https://leomakkinje.nl)**.
 
 ## Contact
 
-For collaboration or inquiries, please get in touch:
-**[Contact page](https://leomakkinje.nl/en#contact)**
+For collaboration or inquiries, please **[get in touch](https://leomakkinje.nl/en#contact)**.
 
 ---
