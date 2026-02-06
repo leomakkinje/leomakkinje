@@ -1,5 +1,3 @@
-# Leo Makkinje
-
 I'm a freelance system administrator and site reliability engineer based in Amsterdam, with more than 30 years of experience keeping IT reliable and maintainable.
 
 I work with small and medium-sized organizations on system administration, device and identity management, and on-premise and cloud infrastructure, ensuring their IT stays stable as the organization grows.
