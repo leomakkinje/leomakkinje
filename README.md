@@ -37,5 +37,3 @@ Learn more about my work and services on **[my website](https://leomakkinje.nl)*
 ## Contact
 
 For collaboration or inquiries, please **[get in touch](https://leomakkinje.nl/en#contact)**.
-
----
