@@ -2,7 +2,7 @@ I'm a freelance Apple IT consultant based near Amsterdam, specializing in Apple 
 
 I work primarily with small businesses that don't have a full-time IT administrator but still need reliable advice, regular maintenance, or technical support.
 
-I help solve IT problems, recommend practical improvements, and make sure your Apple hardware and software work exactly as expected.
+I help solve IT problems, recommend practical improvements, and make sure Apple hardware and software work exactly as expected.
 
 ## Focus Areas
 
