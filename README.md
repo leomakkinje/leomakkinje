@@ -23,7 +23,7 @@ Alongside my consulting work, I design and build software for Apple platforms us
 - **[Highlights](https://apps.apple.com/app/highlights-diary/id6756627350)** — Daily highlight journal for iPhone
 - **[Quavery](https://apps.apple.com/app/quavery-theremin/id6800290999)** — Face-controlled Theremin for iPhone
 - **[Forens](https://apps.apple.com/app/forens-know-before-you-go/id6748138495)** — Real-time NS train information for commuters, on iPhone and Apple Watch
-- **[Cinquo](https://apps.apple.com/app/cinquo/id6741470557)** — Yahtzee-inspired dice game for iPhone, iPad, Mac and Apple TV
+- **[Cinquo](https://apps.apple.com/app/cinquo-yatzy-dice-roll-game/id6741470557)** — Yahtzee-inspired dice game for iPhone, iPad, Mac and Apple TV
 - **[Wahtzy](https://apps.apple.com/app/wahtzy/id6737480953)** — Yahtzee-inspired dice game for Apple Watch
 
 ### Libraries & Packages
